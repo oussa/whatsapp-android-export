@@ -1,3 +1,5 @@
+# Extract WhatsApp DB in 2022, from Android 12 phone, on a Mac
+
 Solution found in this thread: https://forum.xda-developers.com/t/tool-whatsapp-key-db-extractor-crypt6-12-non-root-updated-october-2016.2770982/page-31#post-83629013
 
 Resharing it here as it's so hidden and I only managed to find it after hours of search and multiple attempts and trials (especially that my backup was about 18GB
